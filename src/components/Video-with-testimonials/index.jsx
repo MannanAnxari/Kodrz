@@ -50,7 +50,7 @@ const VideoWithTestimonials = () => {
                   >
                     <div className="vid-butn">
                       <span className="icon">
-                      <i class="fa-sharp fa-solid fa-play"></i>
+                      <i className="fa-sharp fa-solid fa-play"></i>
                       </span>
                     </div>
                   </a>

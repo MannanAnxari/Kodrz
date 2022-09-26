@@ -87,16 +87,16 @@ class Team1 extends React.Component {
                       <h5>{item.name}</h5>
                       <span>{item.title}</span>
                       <div className="social">
-                        <a href={item.facebook} target={"_blank"}>
+                        <a href={item.facebook} rel="noreferrer" target={"_blank"}>
                           <i className="fab fa-facebook-f"></i>
                         </a>
-                        <a href={item.twitter} target={"_blank"}>
+                        <a href={item.twitter} rel="noreferrer" target={"_blank"}>
                           <i className="fab fa-twitter"></i>
                         </a>
-                        <a href={item.instagram} target={"_blank"}>
+                        <a href={item.instagram} rel="noreferrer" target={"_blank"}>
                           <i className="fab fa-instagram"></i>
                         </a>
-                        <a href={item.github} target={"_blank"}>
+                        <a href={item.github} rel="noreferrer" target={"_blank"}>
                           <i className="fab fa-github"></i>
                         </a>
                       </div>

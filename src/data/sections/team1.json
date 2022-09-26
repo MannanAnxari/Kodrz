@@ -4,39 +4,39 @@
     "image": "/img/team/01.jpg",
     "name": "Ashar Ali",
     "title": "General Manager",
-    "facebook": "",
-    "twitter": "",
-    "instagram": "",
-    "github": ""
+    "facebook": "//facebook.com",
+    "twitter": "//twitter.com",
+    "instagram": "//instagram.com",
+    "github": "//github.com"
   },
   {
     "id": 2,
     "image": "/img/team/02.jpg",
     "name": "Abdul Mannan",
     "title": "Founder",
-    "facebook": "",
-    "twitter": "",
-    "instagram": "",
-    "github": "//github.com/MannanAnxari"
+    "facebook": "//facebook.com",
+    "twitter": "//twitter.com",
+    "instagram": "//instagram.com",
+    "github": "//github.com"
   },
   {
     "id": 3,
     "image": "/img/team/03.jpg",
     "name": "Huzaifa Asim",
     "title": "Founder",
-    "facebook": "",
-    "twitter": "",
-    "instagram": "",
-    "github": ""
+    "facebook": "//facebook.com",
+    "twitter": "//twitter.com",
+    "instagram": "//instagram.com",
+    "github": "//github.com"
   },
   {
     "id": 4,
     "image": "/img/team/4.jpg",
     "name": "Ahmad Khan",
     "title": "CEO Founder",
-    "facebook": "",
-    "twitter": "",
-    "instagram": "",
-    "github": ""
+    "facebook": "//facebook.com",
+    "twitter": "//twitter.com",
+    "instagram": "//instagram.com",
+    "github": "//github.com"
   }
 ]

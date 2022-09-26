@@ -31,7 +31,7 @@ const Footer = () => {
                     <span>Email : </span> kodrz@kodrz.com
                   </li>
                   <li>
-                    <span>Address : </span> 24°54'39.0"N 67°11'25.8"E
+                    <span>Address : </span> 24°54&apos;39.0&quot;N 67°11&apos;25.8&quot;E
                   </li>
                   <li>
                     <span>Phone : </span> (+92) 313 123 2025
@@ -109,7 +109,7 @@ const Footer = () => {
         <div className="copyrights text-center">
           <p>
             © 2022. Made with passion by
-            <a href="/">&nbsp;kODRZ</a>.
+            <a href="#">&nbsp;kODRZ</a>.
           </p>
         </div>
       </div>
